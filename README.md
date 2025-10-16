@@ -18,3 +18,5 @@ this is code
 library(dplr)
 # wont run the code, will jsut display it nicely 
 ...
+# to add stuff from the folder 
+![My image](folder/banner_icons.png)
